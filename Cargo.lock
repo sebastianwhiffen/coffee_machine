@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "builder"
+name = "coffee_machine"
 version = "0.1.0"
